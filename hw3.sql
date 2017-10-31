@@ -63,3 +63,10 @@ INSERT INTO Song VALUES(1,"Brazil (2nd Edit)",323,NULL);
 INSERT INTO Song VALUES(2,"I Remember",548,NULL);
 INSERT INTO Song VALUES(3,"Faxing Berlin (Piano Acoustica Version)",105,4);
 INSERT INTO Song VALUES(4,"Faxing Berlin",150,NULL);
+
+SELECT * from AlbumTrack;
+SELECT * from Rerelease;
+SELECT * from Artist;
+SELECT * from Label;
+SELECT * from Release;
+SELECT * from Song;
